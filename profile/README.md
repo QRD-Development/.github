@@ -2,10 +2,10 @@
   <picture>
     <source
       width="128px"
-      srcset="https://avatars.githubusercontent.com/u/149937167?s=400&u=bff0ab462347e998cd015c24fb08365296d14b6e&v=4"
+      srcset="QRD_example.jpg"
     >
     <img 
-      src="https://avatars.githubusercontent.com/u/149937167?s=400&u=bff0ab462347e998cd015c24fb08365296d14b6e&v=4"
+      src="QRD_example.jpg"
     >
   </picture>
 </p>
