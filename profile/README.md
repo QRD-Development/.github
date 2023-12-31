@@ -19,18 +19,22 @@
   <tr align=center>
     <td>Device</td>
     <td>Status</td>
+    <td>Maintainers</td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
     <td>Maintaining (AOSPA, Project Mia, TWRP)</td>
+    <td>EdwardWu, ReallySnow, snnbyyds, mujianwu</td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lito">Lito for arm64</a></td>
-    <td>Maintaining (AOSPA, Project Mia, TWRP)</a></td>
+    <td>Maintaining (AOSPA, Project Mia, TWRP)</td>
+    <td>EdwardWu, ReallySnow</td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_taro">Taro for arm64 (Private Repository)</a></td>
     <td>Work in Progress ... (Project Mia)</td>
+    <td>EdwardWu</td>
   </tr>
 </table>
 </div>
