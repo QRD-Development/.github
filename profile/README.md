@@ -2,10 +2,10 @@
   <picture>
     <source
       width="128px"
-      srcset="QRD_example.jpg"
+      srcset="https://github.com/QRD-Development/.github/blob/main/profile/QRD_example.jpg?raw=true"
     >
     <img 
-      src="QRD_example.jpg"
+      src="https://github.com/QRD-Development/.github/blob/main/profile/QRD_example.jpg?raw=true"
     >
   </picture>
 </p>
