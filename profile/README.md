@@ -11,7 +11,7 @@
 </p>
 
 <h1 align=center>QRD Development</h1>
-<h3 align=center>We aim to make Qualcomm Reference Devices easier to use!!</h3>
+<h3 align=center>We aim to make Qualcomm Reference Design easier to use!!</h3>
 <h2 align=center>Supporting devices</h2>
 
 <div align=center>
