@@ -31,7 +31,7 @@
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
     <td>LineageOS</td>
-    <td>Bug Fixing</td>
+    <td>Maintaining</td>
     <td>hellobbn, snnbyyds</td>
   </tr>
   <tr align=center>
