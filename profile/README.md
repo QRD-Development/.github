@@ -24,21 +24,15 @@
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
-    <td>AOSPA</td>
+    <td>AOSPA/Project Mia</td>
     <td>Maintaining</td>
-    <td>EdwardWu, mujianwu, ReallySnow, snnbyyds</td>
+    <td>EdwardWu, ReallySnow, snnbyyds</td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
-    <td>LineageOS</td>
+    <td>CalyxOS/LineageOS</td>
     <td>Maintaining</td>
-    <td>hellobbn, snnbyyds</td>
-  </tr>
-  <tr align=center>
-    <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
-    <td>Project Mia</td>
-    <td>Maintaining</td>
-    <td>EdwardWu, ReallySnow</td>
+    <td>hellobbn, mujianwu, snnbyyds</td>
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/twrp_device_qcom_lahaina">Lahaina for arm64</a></td>
@@ -48,13 +42,7 @@
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lito">Lito for arm64</a></td>
-    <td>AOSPA</td>
-    <td>Maintaining</td>
-    <td>EdwardWu, ReallySnow</td>
-  </tr>
-  <tr align=center>
-    <td><a href="https://github.com/QRD-Development/android_device_qcom_lito">Lito for arm64</a></td>
-    <td>Project Mia</td>
+    <td>AOSPA/Project Mia</td>
     <td>Maintaining</td>
     <td>EdwardWu, ReallySnow</td>
   </tr>
