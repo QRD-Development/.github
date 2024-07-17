@@ -30,8 +30,8 @@
   </tr>
   <tr align=center>
     <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
-    <td>CalyxOS/LineageOS</td>
-    <td>Maintaining</td>
+    <td>LineageOS</td>
+    <td>Stalled</td>
     <td>hellobbn, mujianwu, snnbyyds</td>
   </tr>
   <tr align=center>
