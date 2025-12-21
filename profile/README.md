@@ -58,5 +58,11 @@
     <td>Work in Progress</td>
     <td>EdwardWu</td>
   </tr>
+  <tr align=center>
+    <td><a href="https://github.com/QRD-Development/device_qcom_kalama">Kalama for arm64</a></td>
+    <td>LineageOS</td>
+    <td>Stalled</td>
+    <td>uwu-gl, LittlenineEnnea</td>
+  </tr>
 </table>
 </div>
